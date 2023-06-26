@@ -1,10 +1,14 @@
-# Getting Started with Create React App
+# Movie Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This Movie app will help you to fetch the movie information from "https://www.omdbapi.com/"
 
-## Available Scripts
+# Platform used
 
-In the project directory, you can run:
+VSC, Github, React, Axios, Bootstrap, js
+
+# `Hosted Link`
+
+https://movie-app-ivory-delta.vercel.app/
 
 ### `npm start`
 
